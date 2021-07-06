@@ -20,5 +20,6 @@ Search:
     - Futility Pruning
     - Reverse Futility Pruning
     - Null Move Pruning
-  - Reductions
-    - Late Move Reductions
+    - Limited Razoring 
+    - Mate Distance Pruning
+  - Late Move Reductions
