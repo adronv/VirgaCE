@@ -16,3 +16,8 @@ Search:
     - Hash move priority
     - Killer move heuristic
     - MVV/LVA capture sorting
+  - Pruning
+    - Futility Pruning
+    - Reverse Futility Pruning
+    - Null Move Pruning
+    - 
