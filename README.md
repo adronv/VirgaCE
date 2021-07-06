@@ -3,6 +3,7 @@
 VirgaCE is a UCI-compliant chess engine written in C++14. 
 
 
-# Features
+## Features
 
-## Board Representation
+Board Representation:
+  - 0x88 mailbox board
