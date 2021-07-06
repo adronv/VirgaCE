@@ -34,3 +34,5 @@ Evaluation:
   - King safety
 
 ## Usage
+
+VirgaCE is best used with an existing chess GUI that supports the UCI framework. Two popular choices include [CuteChess](https://cutechess.com/) and Arena(http://www.playwitharena.de/)
