@@ -23,3 +23,11 @@ Search:
     - Limited Razoring 
     - Mate Distance Pruning
   - Late Move Reductions
+  - Quiescense search
+    - Delta pruning
+
+Evaluation: 
+  - Material 
+  - Piece square tables
+  - Mobility
+  - King safety
