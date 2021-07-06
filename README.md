@@ -12,6 +12,7 @@ Search:
   - Principal Variation Search (negamax algorithm)
   - Iterative Deepening
   - Transposition Table
+    - Zobrist Hashing
   - Move Ordering
     - Hash move priority
     - Killer move heuristic
