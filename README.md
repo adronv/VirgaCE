@@ -13,4 +13,6 @@ Search:
   - Iterative Deepening
   - Transposition Table
   - Move Ordering
-    - Killer Move Heuristic
+    - Hash move priority
+    - Killer move heuristic
+    - MVV/LVA capture sorting
