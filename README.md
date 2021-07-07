@@ -33,6 +33,12 @@ Evaluation:
   - Mobility
   - King safety
 
+## For the Future
+
+- Change board representation to bitboards
+- Create multi-threading framework for parallel search
+- Add support for NNUE
+
 ## Usage
 
 VirgaCE is best used with an existing chess GUI that supports the UCI framework. Two popular choices include [CuteChess](https://cutechess.com/) and [Arena](http://www.playwitharena.de/). The program *can* be used solely through the command line, although knowledge of the [UCI protocol](http://wbec-ridderkerk.nl/html/UCIProtocol.html) is required. 
