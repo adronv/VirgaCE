@@ -36,6 +36,7 @@ Evaluation:
 ## For the Future
 
 - Change board representation to bitboards
+- SSE and staged move generation
 - Create multi-threading framework for parallel search
 - Add support for NNUE
 
