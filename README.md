@@ -55,4 +55,5 @@ I would have been spinning my wheels with this project if it weren't for the ass
 - [Kieren Pearson](https://github.com/KierenP/Halogen)
 - [Mikko Aarnos](https://github.com/mAarnos/Hakkapeliitta)
 - [Stockfish](https://github.com/official-stockfish/Stockfish)
+- [Harm Geert Muller](https://www.chessprogramming.org/Harm_Geert_Muller) and [Dr. Robert Hyatt](https://www.chessprogramming.org/Robert_Hyatt)
 
