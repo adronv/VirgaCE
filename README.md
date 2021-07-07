@@ -1,6 +1,6 @@
 # VirgaCE
 
-VirgaCE is a UCI-compliant chess engine written in C++14. 
+VirgaCE is a UCI-compliant chess engine written in C++14. The motivation for writing it came from a passion for chess that was sparked during the COVID-19 quarantine.
 
 
 ## Features
