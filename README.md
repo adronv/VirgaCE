@@ -51,6 +51,8 @@ I would have been spinning my wheels with this project if it weren't for the ass
 - [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page)
 - [TalkChess](http://talkchess.com/forum3/index.php)
 - [/r/chessprogramming](https://www.reddit.com/r/chessprogramming/) (and specifically to u/tsojtsojtsoj for being brilliant)
-- [Dalton He] (https://github.com/daltonhe) (thanks for the guidance friend :^) )
-
+- [Dalton He](https://github.com/daltonhe/SAVANT) (thanks for the guidance friend :^) )
+- [Kieren Pearson](https://github.com/KierenP/Halogen)
+- [Mikko Aarnos](https://github.com/mAarnos/Hakkapeliitta)
+- [Stockfish](https://github.com/official-stockfish/Stockfish)
 
